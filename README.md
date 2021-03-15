@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityaojha2311
-- 👀 I’m interested in Learning and implementing skills. 
+- 👀 I’m interested in Learning and implementing new skills.
 - 🌱 I’m currently learning   Full Stack Web Development.
 
 <!---
